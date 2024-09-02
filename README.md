@@ -20,6 +20,8 @@ To perform regular differncing,seasonal adjustment and log transformatio on inte
 
 8. Print and plot the results.
 ### PROGRAM:
+## DEVELOPED BY : Kishore S
+## REG NO : 212222240050
 ```
 import pandas as pd
 import numpy as np
@@ -107,5 +109,5 @@ print("LOG TRANSFORMATION:\n", data['Log_Transformed'].head())
 
 
 ### RESULT:
-Thus we have created the python code for the conversion of non stationary to stationary data on international airline passenger
-data.
+The python code for the conversion of non stationary to stationary data on international airline passenger
+data was executed successfully.
