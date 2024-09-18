@@ -2,7 +2,7 @@
 # Date: 
 
 ### AIM:
-To perform regular differncing,seasonal adjustment and log transformatio on international airline passenger data
+To perform regular differncing,seasonal adjustment and log transformatio on Netflix stock price data
 ### ALGORITHM:
 1. Import libraries like pandas, numpy, and matplotlib.
 
@@ -109,5 +109,5 @@ print("LOG TRANSFORMATION:\n", data['Log_Transformed'].head())
 
 
 ### RESULT:
-The python code for the conversion of non stationary to stationary data on international airline passenger
+The python code for the conversion of non stationary to stationary data on Netflix stock price data
 data was executed successfully.
